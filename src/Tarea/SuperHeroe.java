@@ -9,7 +9,7 @@ public class  SuperHeroe extends Persona
 	}
 
 String heroName;
-String power[];
+String powers[];
 	
   
 }
